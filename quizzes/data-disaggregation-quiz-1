@@ -1,1 +1,522 @@
-
+{
+  "id": "data-disaggregation-quiz-1",
+  "title": "Data Disaggregation & Reparations Quiz 1",
+  "category": "Data Disaggregation",
+  "version": "1.0",
+  "lastUpdated": "2026-09-19",
+  "questionCount": 20,
+  "passingScorePercent": 80,
+  "randomizeQuestions": true,
+  "randomizeOptions": true,
+  "sourceTitle": "Data Disaggregation & Reparations Assessment",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "What is the primary purpose of ethnic and racial data disaggregation in public administration and policy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To replace broad national identities with mandatory genealogical testing"
+        },
+        {
+          "id": "B",
+          "text": "To break down broad aggregate racial categories into detailed subgroups and lineages to reveal hidden socioeconomic, health, and educational disparities"
+        },
+        {
+          "id": "C",
+          "text": "To prevent government agencies from collecting demographic statistics on minoritized communities"
+        },
+        {
+          "id": "D",
+          "text": "To restrict federal funding exclusively to newly arrived immigrant groups"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Data disaggregation breaks down broad categories such as Black or Asian into specific ethnic subgroups or lineages. Aggregated data can hide inequities, while disaggregation can reveal specific community needs and support more targeted policy analysis."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "How does the 'flattening of Blackness in data' create a design flaw in U.S. data systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It overcounts Black Americans while excluding white and Hispanic populations"
+        },
+        {
+          "id": "B",
+          "text": "It groups native-born descendants of U.S. chattel slavery together with African and Caribbean immigrants, masking different exposure histories to systemic racism, health weathering, and wealth gaps"
+        },
+        {
+          "id": "C",
+          "text": "It forces all respondents to select multiple racial categories simultaneously"
+        },
+        {
+          "id": "D",
+          "text": "It requires local law enforcement to track genealogical records during routine traffic stops"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment describes a masking effect in which a broad Black category combines populations with different historical and socioeconomic experiences, potentially obscuring outcomes for descendants of U.S. enslavement."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "In the context of demographic collection and policy reform, what distinguishes 'delineation' (lineage-based data) from traditional race-based data?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lineage data is determined by skin tone shades, whereas race data is determined by geography"
+        },
+        {
+          "id": "B",
+          "text": "Lineage data relies on documented family history and political status, such as an ancestor enslaved in the U.S., whereas race data relies on visual perception and broad social categories"
+        },
+        {
+          "id": "C",
+          "text": "Lineage data is mandatory for federal tax filing, while race data is voluntary"
+        },
+        {
+          "id": "D",
+          "text": "Lineage data eliminates all self-identification options on census questionnaires"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment defines lineage or delineation data as tracking documented ancestry and socio-political history, rather than relying only on broad racial categories or perceived race."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Which U.S. state became the first to mandate that its state agencies present a separate demographic category for descendants of enslaved people when collecting employee data?",
+      "options": [
+        {
+          "id": "A",
+          "text": "New York"
+        },
+        {
+          "id": "B",
+          "text": "California"
+        },
+        {
+          "id": "C",
+          "text": "Michigan"
+        },
+        {
+          "id": "D",
+          "text": "Illinois"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment identifies California as the first state to enact this type of separate descendant-status data collection requirement for state agencies.",
+      "timeSensitive": true
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Why do legal scholars and activists such as Marlon Watson of Chicago Freedmen argue that reparations must be tied to a distinct political or lineage designation ('American Freedmen') rather than race alone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Race-based legislation is vulnerable to being struck down by courts as unconstitutional equal protection violations"
+        },
+        {
+          "id": "B",
+          "text": "Federal courts prohibited state governments from allocating financial budgets to racial minorities"
+        },
+        {
+          "id": "C",
+          "text": "International treaties mandate that financial compensation only be granted to foreign citizens"
+        },
+        {
+          "id": "D",
+          "text": "Race-based programs require approval from all 50 state governors before implementation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The assessment argues that remedies defined solely by race may face constitutional equal-protection challenges and that a lineage-based designation ties a remedy to a specific historical harm and affected population."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "According to literature review and data analysis by researchers Slaughter & Hoereth (UIC), what unique socioeconomic pattern sets the Black community apart from other racial groups in the U.S.?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Black native-born residents have higher homeownership rates than all other demographic groups"
+        },
+        {
+          "id": "B",
+          "text": "The Black community is the only racial group in America where foreign-born immigrants tend to outscore native-born residents in most socioeconomic indicators"
+        },
+        {
+          "id": "C",
+          "text": "Black native-born families possess greater liquid assets than white native-born families"
+        },
+        {
+          "id": "D",
+          "text": "Foreign-born Black immigrants receive automatic federal reparations upon arrival"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment states that Black foreign-born immigrants tend to outperform Black native-born residents on many socioeconomic indicators, which it connects to the distinct historical experiences of native-born descendants of U.S. slavery and Jim Crow."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Based on economic research by Dr. William Darity and A. Kirsten Mullen (From Here to Equality), what is the estimated federal expenditure needed to close the racial wealth gap for descendants of U.S. enslavement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "$500 billion total, or $10,000 per individual"
+        },
+        {
+          "id": "B",
+          "text": "$2.5 trillion total, or $50,000 per individual"
+        },
+        {
+          "id": "C",
+          "text": "Upwards of $14 trillion total, or approximately $350,000 per Black individual descended from enslaved ancestors"
+        },
+        {
+          "id": "D",
+          "text": "$50 trillion total, allocated exclusively through housing vouchers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The assessment cites Darity and Mullen as estimating a minimum federal reparations budget of roughly $14 trillion, equating to approximately $350,000 per eligible individual."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Which federal entities were established in 1865 during Reconstruction specifically to support newly emancipated Black Americans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Social Security Administration and the Federal Housing Administration"
+        },
+        {
+          "id": "B",
+          "text": "The Bureau of Refugees, Freedmen, and Abandoned Lands (Freedmen's Bureau) and the Freedman's Savings and Trust Company"
+        },
+        {
+          "id": "C",
+          "text": "The Civil Rights Commission and the Equal Employment Opportunity Commission"
+        },
+        {
+          "id": "D",
+          "text": "The Home Owners' Loan Corporation and the Reconstruction Finance Corporation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment identifies the Freedmen's Bureau and the Freedman's Savings and Trust Company as Reconstruction-era institutions created in 1865 to assist newly emancipated Freedmen."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "What core lineage eligibility standard was recommended by California's Task Force to Study and Develop Reparations Proposals (AB 3121) for monetary reparations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Any individual identifying as Black who has resided in California for at least 10 years"
+        },
+        {
+          "id": "B",
+          "text": "Individuals who can demonstrate descent from an enslaved African American in the U.S. or a free Black person living in the U.S. prior to 1900"
+        },
+        {
+          "id": "C",
+          "text": "All non-white residents who have experienced documented housing discrimination"
+        },
+        {
+          "id": "D",
+          "text": "Individuals with ancestry traceable to any country in West Africa regardless of enslavement history"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment states that the California Reparations Task Force recommended lineage eligibility based on descent from an enslaved African American in the United States or a free Black person living in the United States before 1900.",
+      "timeSensitive": true
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "What proposed state infrastructure is designed specifically to assist claimants with genealogical research, process eligibility claims, and coordinate Freedmen affairs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Department of Motor Vehicles Lineage Division"
+        },
+        {
+          "id": "B",
+          "text": "The California African American Freedmen Affairs Agency / Michigan Office of Freedman Affairs"
+        },
+        {
+          "id": "C",
+          "text": "The Federal Reserve Board of Lineage Allocation"
+        },
+        {
+          "id": "D",
+          "text": "The State Board of Equalization Demographic Oversight Committee"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment points to proposed dedicated Freedmen affairs agencies or offices designed to coordinate policy, genealogy assistance, and eligibility-related functions.",
+      "timeSensitive": true
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "How does aggregating data across Asian American, Native Hawaiian, and Pacific Islander (AANHPI) communities perpetuate the 'Model Minority Myth'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It forces all Asian Americans to report low income levels on federal tax forms"
+        },
+        {
+          "id": "B",
+          "text": "It combines over 50 distinct detailed ethnic groups into one label, masking severe economic, health, and educational disparities faced by Southeast Asians and Pacific Islanders"
+        },
+        {
+          "id": "C",
+          "text": "It automatically classifies Pacific Islanders as Middle Eastern"
+        },
+        {
+          "id": "D",
+          "text": "It prevents AANHPI residents from applying for U.S. citizenship"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment explains that aggregating many distinct AANHPI communities into a broad category can mask substantial differences in economic, health, and educational outcomes."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "While AANHPI women earn an average of 86 cents for every dollar a white man is paid, what do disaggregated statistics reveal about Bhutanese and Burmese American women?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bhutanese women earn $1.20 and Burmese women earn 90 cents"
+        },
+        {
+          "id": "B",
+          "text": "Bhutanese women earn 38 cents and Burmese women earn 53 cents per dollar"
+        },
+        {
+          "id": "C",
+          "text": "Both groups earn exactly 86 cents per dollar"
+        },
+        {
+          "id": "D",
+          "text": "Disaggregated wage data does not exist for Asian subgroups"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment cites disaggregated wage statistics showing Bhutanese American women at 38 cents and Burmese American women at 53 cents for every dollar earned by white men."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "What specific health disparity was uncovered when AANHPI health data was disaggregated for the Hmong American community?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Significantly higher-than-average rates of cervical cancer"
+        },
+        {
+          "id": "B",
+          "text": "Complete immunity to cardiovascular diseases"
+        },
+        {
+          "id": "C",
+          "text": "Lower rates of diabetes compared to all other Asian subgroups"
+        },
+        {
+          "id": "D",
+          "text": "Disproportionate rates of sickle cell anemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The assessment states that disaggregated health data revealed higher-than-average cervical cancer rates among Hmong Americans."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "What was the landmark accomplishment of the student-led 'Count Me In!' (CMI) campaign at UCLA in 2006–2007?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It banned all demographic data collection across California universities"
+        },
+        {
+          "id": "B",
+          "text": "It convinced the University of California system to disaggregate AAPI admissions data into 23 distinct ethnic categories and establish Pacific Islander as a separate racial category"
+        },
+        {
+          "id": "C",
+          "text": "It established mandatory tuition waivers for all international students"
+        },
+        {
+          "id": "D",
+          "text": "It replaced standard high school GPA requirements with standardized testing only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment credits the Count Me In! campaign with helping move the University of California system toward 23 detailed AAPI categories and a separate Native Hawaiian/Pacific Islander category."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "In March 2024, the federal Office of Management and Budget (OMB) updated Statistical Policy Directive 15 (SPD 15). What major structural change was made to federal race/ethnicity collection?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminating all demographic surveys across federal agencies"
+        },
+        {
+          "id": "B",
+          "text": "Adopting a single combined race and ethnicity question, requiring detailed data collection by default, and establishing MENA as a minimum category"
+        },
+        {
+          "id": "C",
+          "text": "Requiring mandatory DNA testing for census respondents"
+        },
+        {
+          "id": "D",
+          "text": "Reverting back to 1977 two-question standards without write-in fields"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment describes the 2024 SPD 15 revisions as combining race and ethnicity into one question, making detailed categories the default, and adding Middle Eastern or North African (MENA) as a minimum category.",
+      "timeSensitive": true
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Which state legislation was enacted prior to federal SPD 15 revisions to mandate a Middle Eastern or North African (MENA) demographic category in state agency data?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nevada AB 139"
+        },
+        {
+          "id": "B",
+          "text": "Florida HB 100"
+        },
+        {
+          "id": "C",
+          "text": "Texas SB 20"
+        },
+        {
+          "id": "D",
+          "text": "Ohio HB 45"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The assessment identifies Nevada AB 139, effective in January 2024, as legislation requiring a distinct MENA category in state agency data.",
+      "timeSensitive": true
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "According to the 2023 Leadership Conference report Disaggregation Nation, how many U.S. states had enacted laws requiring race/ethnicity data disaggregation beyond 1997 federal standards?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 states"
+        },
+        {
+          "id": "B",
+          "text": "12 states"
+        },
+        {
+          "id": "C",
+          "text": "35 states"
+        },
+        {
+          "id": "D",
+          "text": "All 50 states"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment states that the 2023 landscape review identified 12 states with laws requiring race or ethnicity data disaggregation beyond the minimum 1997 federal standards.",
+      "timeSensitive": true
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "What is the purpose of Michigan House Bills 6111, 6112, and 6113 introduced by the Michigan Legislative Black Caucus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To outlaw public discussions of historical wealth gaps in public schools"
+        },
+        {
+          "id": "B",
+          "text": "To create an American Freedmen Reparations Commission, establish an Office of Freedman Affairs, and require state agencies to collect disaggregated lineage demographic data"
+        },
+        {
+          "id": "C",
+          "text": "To eliminate state property taxes for commercial real estate developers"
+        },
+        {
+          "id": "D",
+          "text": "To consolidate all state demographic categories into two broad labels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment describes the three-bill Michigan package as establishing a reparations commission, creating an Office of Freedman Affairs, and requiring lineage-based demographic data disaggregation.",
+      "timeSensitive": true
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "What does California Senate Bill 515 (SB 515) mandate for local government agencies (cities and counties)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It prohibits city governments from hiring civil service employees"
+        },
+        {
+          "id": "B",
+          "text": "It requires cities and counties, when collecting demographic data on newly hired employees, to include subcategories for African Americans based on descendant status"
+        },
+        {
+          "id": "C",
+          "text": "It mandates that all municipal employees submit DNA lineage reports to the federal government"
+        },
+        {
+          "id": "D",
+          "text": "It removes all racial and ethnic checkboxes from local job applications"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment states that SB 515 extends lineage-based data disaggregation requirements to local governments by requiring descendant-status subcategories when cities and counties collect demographic data on newly hired employees.",
+      "timeSensitive": true
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Why is data disaggregation essential before training Artificial Intelligence (AI) models in healthcare and social policy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "AI automatically generates accurate genealogical trees without needing input data"
+        },
+        {
+          "id": "B",
+          "text": "If Blackness and other identities are flattened at the input level, AI inherits, operationalizes, and scales that erasure into risk prediction and resource allocation"
+        },
+        {
+          "id": "C",
+          "text": "AI models are prohibited by law from processing disaggregated data"
+        },
+        {
+          "id": "D",
+          "text": "AI algorithms only work with 1977 OMB two-question survey formats"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The assessment argues that AI systems learn from the categories and data provided to them, so overly broad input categories can carry the same information loss into risk prediction and resource-allocation systems."
+    }
+  ]
+}
