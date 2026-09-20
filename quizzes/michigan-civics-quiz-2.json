@@ -1,1 +1,521 @@
 
+{
+  "id": "michigan-civics-quiz-2",
+  "title": "Michigan Civics Quiz 2",
+  "category": "Michigan Civics",
+  "version": "1.0",
+  "lastUpdated": "2026-09-19",
+  "questionCount": 20,
+  "passingScorePercent": 80,
+  "randomizeQuestions": true,
+  "randomizeOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "What is the minimum advance notice required for posting public notices of legislative committee hearings in Michigan in most cases?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 hours"
+        },
+        {
+          "id": "B",
+          "text": "12 hours"
+        },
+        {
+          "id": "C",
+          "text": "18 hours"
+        },
+        {
+          "id": "D",
+          "text": "24 hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Public notices for legislative committee hearings must be posted at least 18 hours before the committee meets in most cases.",
+      "timeSensitive": true
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Which standing committee in each legislative house considers bills related to the state budget and allocating money to state departments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Government Operations Committee"
+        },
+        {
+          "id": "B",
+          "text": "Appropriations Committee"
+        },
+        {
+          "id": "C",
+          "text": "Judiciary Committee"
+        },
+        {
+          "id": "D",
+          "text": "Oversight Committee"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Each house's Appropriations Committee evaluates measures related to the state budget and the allocation of funds to state departments."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Who serves as the President of the Michigan Senate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Speaker of the House"
+        },
+        {
+          "id": "B",
+          "text": "Lieutenant Governor"
+        },
+        {
+          "id": "C",
+          "text": "Senate Majority Leader"
+        },
+        {
+          "id": "D",
+          "text": "Secretary of State"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Under the Michigan Constitution and Senate rules, the Lieutenant Governor serves as President of the Senate."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "How many standing committees exist in the Michigan House of Representatives and Michigan Senate, respectively?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 standing House committees and 17 standing Senate committees"
+        },
+        {
+          "id": "B",
+          "text": "20 House committees and 20 Senate committees"
+        },
+        {
+          "id": "C",
+          "text": "15 House committees and 12 Senate committees"
+        },
+        {
+          "id": "D",
+          "text": "10 House committees and 10 Senate committees"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "For the 2025-2026 legislative session, the Michigan House has 18 standing committees and the Michigan Senate has 17 standing committees.",
+      "timeSensitive": true
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "How many major executive departments exist in Michigan's Executive Branch alongside the Executive Office?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 departments"
+        },
+        {
+          "id": "B",
+          "text": "12 departments"
+        },
+        {
+          "id": "C",
+          "text": "17 departments"
+        },
+        {
+          "id": "D",
+          "text": "25 departments"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The quiz source identifies 17 major departments along with the Executive Office in Michigan's state Executive Branch. Michigan's Constitution limits the executive branch to no more than 20 principal departments.",
+      "timeSensitive": true
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "How many members serve on the Michigan State Board of Education, and what is their term length?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 members serving 4-year terms"
+        },
+        {
+          "id": "B",
+          "text": "7 members serving 6-year terms"
+        },
+        {
+          "id": "C",
+          "text": "8 members serving 8-year terms"
+        },
+        {
+          "id": "D",
+          "text": "10 members serving 2-year terms"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The eight members of the Michigan State Board of Education are elected at-large statewide for eight-year terms, with overlapping terms."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Which official chairs the Michigan State Board of Education ex-officio?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Governor"
+        },
+        {
+          "id": "B",
+          "text": "Attorney General"
+        },
+        {
+          "id": "C",
+          "text": "State Superintendent of Public Instruction"
+        },
+        {
+          "id": "D",
+          "text": "Secretary of State"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The State Superintendent of Public Instruction serves as chair of the State Board of Education and is a non-voting member."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "What procedural action is required to force a bill out of committee if the committee refuses to report it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A citizen petition signed by 10,000 registered voters"
+        },
+        {
+          "id": "B",
+          "text": "A motion to discharge passed by a majority vote on the chamber floor"
+        },
+        {
+          "id": "C",
+          "text": "An executive order issued by the Governor"
+        },
+        {
+          "id": "D",
+          "text": "A unanimous vote of all committee chairs"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "If a committee does not report a bill, a motion to discharge may be used on the chamber floor under the applicable legislative rules.",
+      "timeSensitive": true
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "What is the length of a term for United States Senators representing Michigan in Congress?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 years"
+        },
+        {
+          "id": "B",
+          "text": "4 years"
+        },
+        {
+          "id": "C",
+          "text": "6 years"
+        },
+        {
+          "id": "D",
+          "text": "8 years"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "United States Senators serve six-year terms. U.S. Representatives serve two-year terms, while Michigan State Senators serve four-year terms."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "How often is the Michigan Legislature redistricted to ensure representative districts remain nearly equal in population?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every 2 years"
+        },
+        {
+          "id": "B",
+          "text": "Every 5 years"
+        },
+        {
+          "id": "C",
+          "text": "Every 10 years following the federal census"
+        },
+        {
+          "id": "D",
+          "text": "Every 15 years"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Legislative districts are redrawn after each decennial federal census, generally once every ten years."
+    },
+    {
+      "id": 11,
+      "type": "true-false",
+      "question": "All standing legislative committee meetings in Michigan are closed to the public by default.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "false",
+      "explanation": "Standing legislative committee meetings are generally open to the public, subject to limited exceptions."
+    },
+    {
+      "id": 12,
+      "type": "true-false",
+      "question": "A personal letter written in your own words often carries more weight with a legislator than standard printed form letters.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "true",
+      "explanation": "The quiz source advises that a thoughtful, factual, individualized message may stand out more than duplicate form communications."
+    },
+    {
+      "id": 13,
+      "type": "true-false",
+      "question": "A member of the Michigan Legislature may simultaneously hold another elective public office, such as Mayor or City Council member.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "false",
+      "explanation": "The quiz source states that a Michigan legislator may hold no other public office except notary public."
+    },
+    {
+      "id": 14,
+      "type": "true-false",
+      "question": "Public restrooms in Heritage Hall and on the ground, third, and fourth floors of the State Capitol are accessible to persons with mobility disabilities.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "true",
+      "explanation": "The quiz source identifies public restrooms in Heritage Hall and on the ground, third, and fourth floors of the Capitol as accessible to persons with mobility disabilities.",
+      "timeSensitive": true
+    },
+    {
+      "id": 15,
+      "type": "true-false",
+      "question": "Statutory committees such as the Legislative Council and Joint Committee on Administrative Rules contain members from both the Senate and House.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "true",
+      "explanation": "Joint statutory committees include members from both the Michigan Senate and House of Representatives."
+    },
+    {
+      "id": 16,
+      "type": "true-false",
+      "question": "A Conference Committee compromise report submitted to both legislative chambers can be amended on the floor.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "false",
+      "explanation": "A conference committee compromise report submitted to both houses is not subject to amendment."
+    },
+    {
+      "id": 17,
+      "type": "matching",
+      "question": "Match each Michigan Executive Department to its primary Lansing building location.",
+      "items": [
+        {
+          "id": "1",
+          "text": "Department of Agriculture and Rural Development"
+        },
+        {
+          "id": "2",
+          "text": "Department of Attorney General"
+        },
+        {
+          "id": "3",
+          "text": "Department of State"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Richard H. Austin Building"
+        },
+        {
+          "id": "B",
+          "text": "Deborah A. Stabenow Building"
+        },
+        {
+          "id": "C",
+          "text": "G. Mennen Williams Building"
+        }
+      ],
+      "correctMatches": {
+        "1": "B",
+        "2": "C",
+        "3": "A"
+      },
+      "explanation": "The quiz source matches Agriculture and Rural Development with the Deborah A. Stabenow Building, Attorney General with the G. Mennen Williams Building, and Department of State with the Richard H. Austin Building.",
+      "timeSensitive": true
+    },
+    {
+      "id": 18,
+      "type": "matching",
+      "question": "Match each Michigan State Official to their title or role.",
+      "items": [
+        {
+          "id": "1",
+          "text": "Gretchen Whitmer"
+        },
+        {
+          "id": "2",
+          "text": "Matt Hall"
+        },
+        {
+          "id": "3",
+          "text": "Winnie Brinks"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Senate Majority Leader"
+        },
+        {
+          "id": "B",
+          "text": "Speaker of the House"
+        },
+        {
+          "id": "C",
+          "text": "Governor of Michigan"
+        }
+      ],
+      "correctMatches": {
+        "1": "C",
+        "2": "B",
+        "3": "A"
+      },
+      "explanation": "The quiz identifies Gretchen Whitmer as Governor, Matt Hall as Speaker of the Michigan House, and Winnie Brinks as Senate Majority Leader.",
+      "timeSensitive": true
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "question": "Match each U.S. Senator representing Michigan in the 119th Congress to their term ending date.",
+      "items": [
+        {
+          "id": "1",
+          "text": "Gary Peters"
+        },
+        {
+          "id": "2",
+          "text": "Elissa Slotkin"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Term Ends: January 3, 2027"
+        },
+        {
+          "id": "B",
+          "text": "Term Ends: January 3, 2031"
+        }
+      ],
+      "correctMatches": {
+        "1": "A",
+        "2": "B"
+      },
+      "explanation": "Gary Peters' current Senate term ends January 3, 2027, while Elissa Slotkin's term ends January 3, 2031.",
+      "timeSensitive": true
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "question": "Match each Legislative Process Term to its definition under Michigan lawmaking.",
+      "items": [
+        {
+          "id": "1",
+          "text": "Sine Die"
+        },
+        {
+          "id": "2",
+          "text": "Substitute Bill"
+        },
+        {
+          "id": "3",
+          "text": "Enrollment"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "A rewritten version of a bill adopted by a committee in place of the original"
+        },
+        {
+          "id": "B",
+          "text": "Final adjournment of the Legislature at the end of the year"
+        },
+        {
+          "id": "C",
+          "text": "Preparation of a bill passed by both houses in identical form before sending to the Governor"
+        }
+      ],
+      "correctMatches": {
+        "1": "B",
+        "2": "A",
+        "3": "C"
+      },
+      "explanation": "Sine die refers to final adjournment; a substitute bill is a revised or replacement version of legislation; enrollment is the preparation of a bill after identical passage by both houses before presentation to the Governor."
+    }
+  ]
+}
