@@ -1,1 +1,516 @@
+{
+  "id": "michigan-civics-quiz-1",
+  "title": "Michigan Civics Quiz 1",
+  "category": "Michigan Civics",
+  "version": "1.0",
+  "lastUpdated": "2026-09-19",
+  "questionCount": 20,
+  "passingScorePercent": 80,
+  "randomizeQuestions": true,
+  "randomizeOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "How many total members serve in the current Michigan Legislature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "148"
+        },
+        {
+          "id": "C",
+          "text": "110"
+        },
+        {
+          "id": "D",
+          "text": "38"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Michigan Legislature consists of 148 total members. The House has 110 members and the Senate has 38 members."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "In what year was Michigan's state capital permanently moved from Detroit to Lansing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1776"
+        },
+        {
+          "id": "B",
+          "text": "1835"
+        },
+        {
+          "id": "C",
+          "text": "1847"
+        },
+        {
+          "id": "D",
+          "text": "1879"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Detroit served as Michigan's capital until 1847, when the capital was permanently relocated to Lansing. The current State Capitol building formally opened in 1879."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Under Michigan's current Constitution, what is the legislative term limit for a person serving in the Michigan House, Senate, or a combination of both?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 years total"
+        },
+        {
+          "id": "B",
+          "text": "8 years total"
+        },
+        {
+          "id": "C",
+          "text": "12 years total"
+        },
+        {
+          "id": "D",
+          "text": "There are no term limits"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Michigan's Constitution currently limits a person to no more than 12 total years in the Legislature, whether those years are served in the House, Senate, or a combination of both. A limited exception applies to certain senators elected in 2022."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "How many signatures of registered voters are required for an Initiative petition to propose or enact laws in Michigan?",
+      "options": [
+        {
+          "id": "A",
+          "text": "223,099 signatures"
+        },
+        {
+          "id": "B",
+          "text": "356,958 signatures"
+        },
+        {
+          "id": "C",
+          "text": "446,198 signatures"
+        },
+        {
+          "id": "D",
+          "text": "500,000 signatures"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "An Initiative petition requires 356,958 signatures, equal to 8% of the total votes cast for Governor in the 2022 general election. A referendum requires 223,099 signatures (5%), and a constitutional amendment requires 446,198 signatures (10%)."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "How many justices serve on the Michigan Supreme Court?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 justices"
+        },
+        {
+          "id": "B",
+          "text": "7 justices"
+        },
+        {
+          "id": "C",
+          "text": "9 justices"
+        },
+        {
+          "id": "D",
+          "text": "12 justices"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Michigan Supreme Court consists of seven justices. Justices are elected on a nonpartisan ballot to eight-year terms."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "By default, when does a bill signed into law by the Governor take effect?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Immediately upon the Governor's signature"
+        },
+        {
+          "id": "B",
+          "text": "30 days after the legislative session ends"
+        },
+        {
+          "id": "C",
+          "text": "90 days after the Legislature adjourns sine die at the end of the session"
+        },
+        {
+          "id": "D",
+          "text": "On January 1st of the following calendar year"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "By default, an act takes effect after the expiration of 90 days from the end of the session in which it was passed. The Legislature may give an act immediate effect by a two-thirds vote of the members elected to and serving in each house."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "How many days does the Governor have to consider an enrolled bill once it reaches their desk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 days"
+        },
+        {
+          "id": "B",
+          "text": "10 days"
+        },
+        {
+          "id": "C",
+          "text": "14 days"
+        },
+        {
+          "id": "D",
+          "text": "30 days"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Governor generally has 14 days to sign, veto, or take no action on an enrolled bill. The effect of taking no action depends on whether the Legislature remains in session or has adjourned sine die."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "What vote is required in both the House and Senate to override a gubernatorial veto?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple majority"
+        },
+        {
+          "id": "B",
+          "text": "Three-fifths (60%) vote"
+        },
+        {
+          "id": "C",
+          "text": "Two-thirds (2/3) vote"
+        },
+        {
+          "id": "D",
+          "text": "Three-fourths (75%) vote"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Legislature may override a Governor's veto by a two-thirds vote of the members elected to and serving in each house."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "When contacting a legislator regarding a bill, when is the most effective time for your message to arrive?",
+      "options": [
+        {
+          "id": "A",
+          "text": "While the bill is still in committee"
+        },
+        {
+          "id": "B",
+          "text": "After the bill passes both houses"
+        },
+        {
+          "id": "C",
+          "text": "After the Governor signs the bill"
+        },
+        {
+          "id": "D",
+          "text": "During the final sine die adjournment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Contacting legislators while a bill is still in committee provides an opportunity for input before later stages of the legislative process."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "What is the minimum advance notice required for posting legislative committee meeting notices in most cases?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 hours"
+        },
+        {
+          "id": "B",
+          "text": "12 hours"
+        },
+        {
+          "id": "C",
+          "text": "18 hours"
+        },
+        {
+          "id": "D",
+          "text": "24 hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "In most cases, public notice for a rescheduled regular meeting or special meeting must be posted at least 18 hours before the meeting. Certain legislative conference committee meetings have different notice rules."
+    },
+    {
+      "id": 11,
+      "type": "true-false",
+      "question": "Members of the Michigan Supreme Court are elected on a partisan ballot.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "false",
+      "explanation": "Michigan Supreme Court candidates may be nominated through partisan processes, but the justices are elected on a nonpartisan ballot."
+    },
+    {
+      "id": 12,
+      "type": "true-false",
+      "question": "A bill in regular session must be in the possession of each legislative chamber for at least five days before it can be passed.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "true",
+      "explanation": "The Michigan Constitution requires a bill to be printed or reproduced and in the possession of each house for at least five days before final passage."
+    },
+    {
+      "id": 13,
+      "type": "true-false",
+      "question": "Michigan House sessions are normally held on Tuesdays and Wednesdays at 1:30 p.m. and Thursdays at 12:00 noon.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "true",
+      "explanation": "The 2026 Michigan House session calendar lists normal session times as Tuesday at 1:30 p.m., Wednesday at 1:30 p.m., and Thursday at noon.",
+      "timeSensitive": true
+    },
+    {
+      "id": 14,
+      "type": "true-false",
+      "question": "A conference committee report submitted to both legislative chambers can be amended on the chamber floor.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "false",
+      "explanation": "A conference committee compromise report submitted to both houses is not subject to amendment."
+    },
+    {
+      "id": 15,
+      "type": "true-false",
+      "question": "To be eligible for election to either house of the Michigan Legislature, a candidate must be at least 25 years of age.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "false",
+      "explanation": "A person must be at least 21 years old and otherwise meet Michigan's constitutional eligibility requirements to serve in the Legislature."
+    },
+    {
+      "id": 16,
+      "type": "true-false",
+      "question": "A small group of well-informed citizens is often more effective when meeting with a legislator than a large crowd.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "true",
+      "explanation": "Effective legislative advocacy can be conducted by a small number of informed constituents who are prepared to communicate clearly about an issue."
+    },
+    {
+      "id": 17,
+      "type": "matching",
+      "question": "Match each Petition Type in Michigan to its required signature count based on the 2022 gubernatorial election.",
+      "items": [
+        {
+          "id": "1",
+          "text": "Initiative Petition"
+        },
+        {
+          "id": "2",
+          "text": "Referendum Petition"
+        },
+        {
+          "id": "3",
+          "text": "Constitutional Amendment Petition"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "223,099 signatures (5% of gubernatorial vote)"
+        },
+        {
+          "id": "B",
+          "text": "356,958 signatures (8% of gubernatorial vote)"
+        },
+        {
+          "id": "C",
+          "text": "446,198 signatures (10% of gubernatorial vote)"
+        }
+      ],
+      "correctMatches": {
+        "1": "B",
+        "2": "A",
+        "3": "C"
+      },
+      "explanation": "Initiative petitions require 8%, referenda require 5%, and constitutional amendment petitions require 10% of the relevant gubernatorial vote total."
+    },
+    {
+      "id": 18,
+      "type": "matching",
+      "question": "Match each Government Entity / Body to its member composition and term length.",
+      "items": [
+        {
+          "id": "1",
+          "text": "Michigan Senate"
+        },
+        {
+          "id": "2",
+          "text": "Michigan House of Representatives"
+        },
+        {
+          "id": "3",
+          "text": "Michigan Supreme Court"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "110 members serving 2-year terms"
+        },
+        {
+          "id": "B",
+          "text": "38 members serving 4-year terms"
+        },
+        {
+          "id": "C",
+          "text": "7 justices serving 8-year terms"
+        }
+      ],
+      "correctMatches": {
+        "1": "B",
+        "2": "A",
+        "3": "C"
+      },
+      "explanation": "The Senate has 38 senators serving four-year terms; the House has 110 representatives serving two-year terms; and the Michigan Supreme Court has seven justices serving eight-year terms."
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "question": "Match each Legislative Chamber to its rule for moving for Reconsideration of a bill.",
+      "items": [
+        {
+          "id": "1",
+          "text": "Senate Motion for Reconsideration"
+        },
+        {
+          "id": "2",
+          "text": "House Motion for Reconsideration"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Must be made within the next succeeding session day"
+        },
+        {
+          "id": "B",
+          "text": "Must be made within the following two session days"
+        }
+      ],
+      "correctMatches": {
+        "1": "B",
+        "2": "A"
+      },
+      "explanation": "Under the applicable chamber rules, the Senate allows reconsideration on the same day or within the next two Senate legislative days, while the House uses the next succeeding session-day rule.",
+      "timeSensitive": true
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "question": "Match each Executive Official to their listed Michigan hometown and term-end date.",
+      "items": [
+        {
+          "id": "1",
+          "text": "Governor Gretchen Whitmer"
+        },
+        {
+          "id": "2",
+          "text": "Lieutenant Governor Garlin Gilchrist II"
+        },
+        {
+          "id": "3",
+          "text": "Attorney General Dana Nessel"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "D – Plymouth, Term Ends: 1-1-2027"
+        },
+        {
+          "id": "B",
+          "text": "D – Lansing, Term Ends: 1-1-2027"
+        },
+        {
+          "id": "C",
+          "text": "D – Detroit, Term Ends: 1-1-2027"
+        }
+      ],
+      "correctMatches": {
+        "1": "B",
+        "2": "C",
+        "3": "A"
+      },
+      "explanation": "The listed locations are Lansing for Governor Whitmer, Detroit for Lieutenant Governor Gilchrist, and Plymouth for Attorney General Nessel; each listed term ends January 1, 2027.",
+      "timeSensitive": true
+    }
+  ]
+}
 
