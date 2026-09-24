@@ -2,7 +2,7 @@
   "id": "federal-civics-quiz-1",
   "title": "Federal Government Civics 101",
   "sourceTitle": "Understanding the Federal Government: Civics, Congress & Federal Power",
-  "description": "A 50-question federal civics bank covering the Constitution, separation of powers, Congress, the presidency, federal courts, federalism, and constitutional amendments. Each attempt randomly draws 30 questions.",
+  "description": "A 50-question federal civics bank arranged from beginner fundamentals to advanced congressional, judicial, federalism, and executive-power concepts. Each attempt randomly draws 30 questions, then presents the selected questions from easier to harder.",
   "questionsPerAttempt": 30,
   "randomizeQuestions": true,
   "randomizeOptions": true,
@@ -32,493 +32,9 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Article I, Section 1 vests all legislative power in Congress (House and Senate)."
-    },
-    {
-      "id": "fed-02",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "In Federalist 51, James Madison argued that the primary security against the gradual concentration of several powers in the same department consists of what mechanism?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Relying strictly on civic virtue among elected representatives"
-        },
-        {
-          "id": "B",
-          "text": "Giving those who administer each department the constitutional means and personal motives to resist encroachments ('ambition counteracting ambition')"
-        },
-        {
-          "id": "C",
-          "text": "Establishing a unicameral legislature with annual popular elections"
-        },
-        {
-          "id": "D",
-          "text": "Granting the Chief Justice absolute veto power over all statutory laws"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Federalist 51 specifies that ambition must counter ambition through constitutional means and personal motives."
-    },
-    {
-      "id": "fed-03",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "According to the Constitution, which house of Congress possesses the exclusive power to originate bills for raising revenue?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The Senate"
-        },
-        {
-          "id": "B",
-          "text": "The House of Representatives"
-        },
-        {
-          "id": "C",
-          "text": "The Department of the Treasury"
-        },
-        {
-          "id": "D",
-          "text": "A Joint Conference Committee"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Article I, Section 7 requires all bills for raising revenue to originate in the House of Representatives."
-    },
-    {
-      "id": "fed-04",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": true,
-      "question": "A bill has passed both the House of Representatives and the Senate in identical form and is presented to the President. If the President rejects the bill and returns it with objections, how can Congress override the presidential veto?",
-      "options": [
-        {
-          "id": "A",
-          "text": "By a simple majority vote in both chambers"
-        },
-        {
-          "id": "B",
-          "text": "By a two-thirds supermajority vote of those present and voting in both the House and the Senate"
-        },
-        {
-          "id": "C",
-          "text": "By a three-fourths vote of state governors"
-        },
-        {
-          "id": "D",
-          "text": "By unanimous consent of the Senate Rules Committee"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Article I, Section 7 dictates that a two-thirds vote in both House and Senate is required to override a veto."
-    },
-    {
-      "id": "fed-05",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "What happens if the President takes no action on a bill passed by Congress within 10 days (Sundays excepted) while Congress is actively in session?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The bill automatically dies via a pocket veto"
-        },
-        {
-          "id": "B",
-          "text": "The bill becomes law as if the President had signed it"
-        },
-        {
-          "id": "C",
-          "text": "The bill returns to committee for a second markup"
-        },
-        {
-          "id": "D",
-          "text": "The Supreme Court must review the bill for constitutionality"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "If Congress is in session and the President takes no action for 10 days (Sundays excepted), the bill becomes law."
-    },
-    {
-      "id": "fed-06",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": true,
-      "question": "Suppose Congress passes a bill and adjourns its session within the 10-day period during which the President is considering the legislation. If the President chooses not to sign the bill, what is the legal outcome?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The bill becomes law automatically"
-        },
-        {
-          "id": "B",
-          "text": "The bill is enacted provisionally for 60 days"
-        },
-        {
-          "id": "C",
-          "text": "The bill does not become law; it is nullified by a 'pocket veto' which Congress cannot override"
-        },
-        {
-          "id": "D",
-          "text": "The Speaker of the House becomes acting signatory"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "If Congress adjourns during the 10 days and the President does not sign, it is a pocket veto and cannot be overridden."
-    },
-    {
-      "id": "fed-07",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "Under Article III of the Constitution, what is the primary constitutional protection designed to ensure the independence of federal judges from political pressure?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Term limits of 12 years followed by mandatory retirement"
-        },
-        {
-          "id": "B",
-          "text": "Life tenure during good behavior and a guarantee against salary reduction"
-        },
-        {
-          "id": "C",
-          "text": "Direct election by popular vote every six years"
-        },
-        {
-          "id": "D",
-          "text": "Annual confirmation reviews by the House Judiciary Committee"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Article III grants federal judges life tenure during good behavior and salary protection to ensure judicial independence."
-    },
-    {
-      "id": "fed-08",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "Which landmark Supreme Court decision formally established the power of judicial review, declaring that 'a law repugnant to the Constitution is void'?",
-      "options": [
-        {
-          "id": "A",
-          "text": "McCulloch v. Maryland (1819)"
-        },
-        {
-          "id": "B",
-          "text": "Marbury v. Madison (1803)"
-        },
-        {
-          "id": "C",
-          "text": "Gibbons v. Ogden (1824)"
-        },
-        {
-          "id": "D",
-          "text": "Youngstown Sheet & Tube Co. v. Sawyer (1952)"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Chief Justice John Marshall established judicial review in Marbury v. Madison (1803)."
-    },
-    {
-      "id": "fed-09",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "In the legislative committee process, what is the term for the formal session where committee members analyze a bill line by line, propose amendments, and vote on text changes?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Public Hearing"
-        },
-        {
-          "id": "B",
-          "text": "Markup Session"
-        },
-        {
-          "id": "C",
-          "text": "Second Reading"
-        },
-        {
-          "id": "D",
-          "text": "Cloture Motion"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Markup sessions are where committees debate, amend, and rewrite bill text line by line."
-    },
-    {
-      "id": "fed-10",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "When the House and Senate pass different versions of the same major piece of legislation and informal negotiations fail, what body is appointed to resolve the differences and draft a unified bill?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The Standing Rules Committee"
-        },
-        {
-          "id": "B",
-          "text": "A Conference Committee composed of conferees from both chambers"
-        },
-        {
-          "id": "C",
-          "text": "The President's Cabinet"
-        },
-        {
-          "id": "D",
-          "text": "The Congressional Budget Office"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "A Conference Committee composed of House and Senate conferees reconciles differing versions of a bill."
-    },
-    {
-      "id": "fed-11",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "Which House parliamentary mechanism allows relatively non-controversial measures to be brought directly to the floor for a quick vote requiring a two-thirds majority, limiting debate to 40 minutes and prohibiting floor amendments?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Discharge Petition"
-        },
-        {
-          "id": "B",
-          "text": "Suspension of the Rules"
-        },
-        {
-          "id": "C",
-          "text": "Calendar Wednesday"
-        },
-        {
-          "id": "D",
-          "text": "Committee of the Whole"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Suspension of the Rules expedites non-controversial bills under a 40-minute debate limit and 2/3 vote requirement."
-    },
-    {
-      "id": "fed-12",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "In the Senate, what procedural tool allows a minority of senators to delay or prevent a vote on a bill through extended debate, and how many votes are required for a 'cloture' motion to end it?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Filibuster; requiring 60 votes (three-fifths supermajority)"
-        },
-        {
-          "id": "B",
-          "text": "Pocket Veto; requiring 51 votes (simple majority)"
-        },
-        {
-          "id": "C",
-          "text": "Point of Order; requiring 67 votes (two-thirds supermajority)"
-        },
-        {
-          "id": "D",
-          "text": "Unanimous Consent; requiring 75 votes"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": "Filibusters in the Senate are ended by invoking cloture under Rule XXII, which requires 60 votes (3/5 supermajority)."
-    },
-    {
-      "id": "fed-13",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": true,
-      "question": "A federal agency proposes a new administrative rule that a group of citizens claims exceeds the statutory authority granted by Congress. Which branch has the constitutional role to evaluate whether the rule violates federal law or the Constitution?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The Legislative Branch"
-        },
-        {
-          "id": "B",
-          "text": "The Executive Branch"
-        },
-        {
-          "id": "C",
-          "text": "The Judicial Branch"
-        },
-        {
-          "id": "D",
-          "text": "State Governors"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "The Judicial Branch evaluates whether executive branch actions or agency rules conform to federal statutes and the Constitution."
-    },
-    {
-      "id": "fed-14",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "Which constitutional clause explicitly establishes that the U.S. Constitution, federal statutes, and treaties constitute the supreme law of the land, taking precedence over conflicting state laws?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The Commerce Clause (Article I, Section 8)"
-        },
-        {
-          "id": "B",
-          "text": "The Supremacy Clause (Article VI, Clause 2)"
-        },
-        {
-          "id": "C",
-          "text": "The Necessary and Proper Clause (Article I, Section 8)"
-        },
-        {
-          "id": "D",
-          "text": "The Full Faith and Credit Clause (Article IV, Section 1)"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Article VI, Clause 2 (Supremacy Clause) establishes federal law and the Constitution as supreme over state laws."
-    },
-    {
-      "id": "fed-15",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "What key constitutional role does the House of Representatives play in the impeachment and removal process of a federal official?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Tries the official and renders the final verdict"
-        },
-        {
-          "id": "B",
-          "text": "Brings the formal charges of impeachment (similar to a grand jury)"
-        },
-        {
-          "id": "C",
-          "text": "Appoints a special prosecutor to manage the trial"
-        },
-        {
-          "id": "D",
-          "text": "Issues a judicial writ of certiorari"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Article I grants the House sole power of impeachment (acting like a grand jury to bring charges)."
-    },
-    {
-      "id": "fed-16",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "What vote threshold is required in the Senate to convict an impeached official and remove them from office?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Simple majority (51 votes)"
-        },
-        {
-          "id": "B",
-          "text": "Three-fifths majority (60 votes)"
-        },
-        {
-          "id": "C",
-          "text": "Two-thirds vote of Senators present"
-        },
-        {
-          "id": "D",
-          "text": "Unanimous consent"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Article I grants the Senate sole power to try impeachments; conviction requires a 2/3 vote of Senators present."
-    },
-    {
-      "id": "fed-17",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "What is the primary function of the House Rules Committee in the legislative pipeline?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Investigating executive branch corruption"
-        },
-        {
-          "id": "B",
-          "text": "Setting the terms of debate, time limits, and amendment rules for bills on the House floor"
-        },
-        {
-          "id": "C",
-          "text": "Auditing federal agency budget spending"
-        },
-        {
-          "id": "D",
-          "text": "Ratifying international treaties"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "The House Rules Committee acts as a 'traffic cop', setting floor debate time limits and amendment permissions."
-    },
-    {
-      "id": "fed-18",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "Under the Constitution, which institution has the sole power to confirm presidential nominations for cabinet secretaries, federal judges, and ambassadors?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The House of Representatives"
-        },
-        {
-          "id": "B",
-          "text": "The United States Senate"
-        },
-        {
-          "id": "C",
-          "text": "The Supreme Court"
-        },
-        {
-          "id": "D",
-          "text": "The National Governors Association"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Article II grants the Senate the advice and consent power to confirm presidential nominees."
-    },
-    {
-      "id": "fed-19",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": true,
-      "question": "Suppose a newly passed federal statute conflicts with an earlier federal law on the same subject, but contains no explicit clause repealing the prior law. How do federal courts approach the two statutes?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Courts automatically void both laws"
-        },
-        {
-          "id": "B",
-          "text": "Courts presume repeals by implication are disfavored and strive to harmonize the statutes if possible"
-        },
-        {
-          "id": "C",
-          "text": "Courts enforce only the older law under stare decisis"
-        },
-        {
-          "id": "D",
-          "text": "Courts refer the matter back to the President"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Courts disfavor implied repeals and strive to harmonize statutory provisions unless irreconcilable conflict exists."
+      "explanation": "Article I, Section 1 vests all legislative power in Congress (House and Senate).",
+      "learningOrder": 1,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-20",
@@ -545,412 +61,67 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Montesquieu and Madison emphasized Separation of Powers to prevent any single branch from acquiring total control."
+      "explanation": "Montesquieu and Madison emphasized Separation of Powers to prevent any single branch from acquiring total control.",
+      "learningOrder": 2,
+      "difficulty": "Beginner"
     },
     {
-      "id": "fed-21",
+      "id": "fed-03",
       "type": "single-choice",
       "category": "Constitution, Congress & Separation of Powers",
       "scenarioBased": false,
-      "question": "Which amendment altered the original constitutional method of choosing U.S. Senators by transferring election power from state legislatures to the voters of each state?",
+      "question": "According to the Constitution, which house of Congress possesses the exclusive power to originate bills for raising revenue?",
       "options": [
         {
           "id": "A",
-          "text": "12th Amendment"
+          "text": "The Senate"
         },
         {
           "id": "B",
-          "text": "16th Amendment"
+          "text": "The House of Representatives"
         },
         {
           "id": "C",
-          "text": "17th Amendment"
+          "text": "The Department of the Treasury"
         },
         {
           "id": "D",
-          "text": "20th Amendment"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "The 17th Amendment (1913) established direct popular election of U.S. Senators instead of election by state legislatures."
-    },
-    {
-      "id": "fed-22",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": true,
-      "question": "A bill is introduced in the House to grant federal funds for local infrastructure. Where does the bill usually go immediately after introduction?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Directly to the House floor for a vote"
-        },
-        {
-          "id": "B",
-          "text": "Referred by the Speaker to the appropriate standing committee with jurisdiction"
-        },
-        {
-          "id": "C",
-          "text": "Sent to the Senate Majority Leader for pre-approval"
-        },
-        {
-          "id": "D",
-          "text": "Forwarded to the White House for executive review"
+          "text": "A Joint Conference Committee"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Bills introduced in the House are referred by the Speaker to standing committees with relevant jurisdiction."
+      "explanation": "Article I, Section 7 requires all bills for raising revenue to originate in the House of Representatives.",
+      "learningOrder": 3,
+      "difficulty": "Beginner"
     },
     {
-      "id": "fed-23",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": true,
-      "question": "What requirement must be met before a conference committee report can be sent to the President for signature?",
-      "options": [
-        {
-          "id": "A",
-          "text": "It must be approved by the Supreme Court"
-        },
-        {
-          "id": "B",
-          "text": "Both the House and Senate must vote to approve the identical conference report without amendments"
-        },
-        {
-          "id": "C",
-          "text": "At least 30 state legislatures must ratify it"
-        },
-        {
-          "id": "D",
-          "text": "The Cabinet must issue a unanimous advisory report"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Both House and Senate must vote to approve the exact same conference report without further floor amendments."
-    },
-    {
-      "id": "fed-24",
+      "id": "fed-14",
       "type": "single-choice",
       "category": "Constitution, Congress & Separation of Powers",
       "scenarioBased": false,
-      "question": "What is the term for an authorization or directive included in a congressional bill or committee report that directs funds to a specific specific project, person, or entity?",
+      "question": "Which constitutional clause explicitly establishes that the U.S. Constitution, federal statutes, and treaties constitute the supreme law of the land, taking precedence over conflicting state laws?",
       "options": [
         {
           "id": "A",
-          "text": "Rider"
+          "text": "The Commerce Clause (Article I, Section 8)"
         },
         {
           "id": "B",
-          "text": "Earmark"
+          "text": "The Supremacy Clause (Article VI, Clause 2)"
         },
         {
           "id": "C",
-          "text": "Proviso"
+          "text": "The Necessary and Proper Clause (Article I, Section 8)"
         },
         {
           "id": "D",
-          "text": "Substitute Amendment"
+          "text": "The Full Faith and Credit Clause (Article IV, Section 1)"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "An earmark directs federal funds to a specific project, organization, or location."
-    },
-    {
-      "id": "fed-25",
-      "type": "single-choice",
-      "category": "Constitution, Congress & Separation of Powers",
-      "scenarioBased": false,
-      "question": "In Montesquieu's The Spirit of Laws (1748), why is the separation of the judicial power from the legislative and executive powers declared essential to political liberty?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Because unified power allows judges to make tyrannical laws and execute them with arbitrary violence"
-        },
-        {
-          "id": "B",
-          "text": "Because judges need absolute control over the military budget"
-        },
-        {
-          "id": "C",
-          "text": "Because the executive branch cannot collect taxes without judicial approval"
-        },
-        {
-          "id": "D",
-          "text": "Because state governments would cease to exist otherwise PART 2: GOVERNMENT QUIZ 2 (Questions 26 – 50) Focus: Executive War Powers, Budget Reconciliation, Federal Courts, Federalism & Amendments"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": "Montesquieu wrote that if judicial power is joined to legislative or executive power, freedom vanishes due to arbitrary rule."
-    },
-    {
-      "id": "fed-26",
-      "type": "single-choice",
-      "category": "Presidency, War Powers & Budget Process",
-      "scenarioBased": true,
-      "question": "Congress passes a joint resolution authorizing the President to use military force against nations or groups involved in a terror attack. What is this type of legislative measure called?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Declaration of Martial Law"
-        },
-        {
-          "id": "B",
-          "text": "Authorization for Use of Military Force (AUMF)"
-        },
-        {
-          "id": "C",
-          "text": "Executive Order"
-        },
-        {
-          "id": "D",
-          "text": "Treaty of Mutual Defense"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "An Authorization for Use of Military Force (AUMF) is a statutory authorization for executive military action."
-    },
-    {
-      "id": "fed-27",
-      "type": "single-choice",
-      "category": "Presidency, War Powers & Budget Process",
-      "scenarioBased": false,
-      "question": "Under the War Powers Act of 1973, within how many hours must the President notify Congress after deploying U.S. armed forces into hostile situations?",
-      "options": [
-        {
-          "id": "A",
-          "text": "24 hours"
-        },
-        {
-          "id": "B",
-          "text": "48 hours"
-        },
-        {
-          "id": "C",
-          "text": "72 hours"
-        },
-        {
-          "id": "D",
-          "text": "7 days"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "The War Powers Act of 1973 mandates executive notification to Congress within 48 hours of deploying troops."
-    },
-    {
-      "id": "fed-28",
-      "type": "single-choice",
-      "category": "Presidency, War Powers & Budget Process",
-      "scenarioBased": false,
-      "question": "What time limit does the War Powers Act of 1973 place on military deployments without explicit congressional authorization or a declaration of war?",
-      "options": [
-        {
-          "id": "A",
-          "text": "30 days total"
-        },
-        {
-          "id": "B",
-          "text": "60 days (plus a 30-day withdrawal period)"
-        },
-        {
-          "id": "C",
-          "text": "180 days"
-        },
-        {
-          "id": "D",
-          "text": "1 calendar year"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "The War Powers Act limits unapproved military actions to 60 days, plus a 30-day withdrawal window."
-    },
-    {
-      "id": "fed-29",
-      "type": "single-choice",
-      "category": "Presidency, War Powers & Budget Process",
-      "scenarioBased": false,
-      "question": "In 1964, Congress passed the Gulf of Tonkin Resolution following reported naval incidents off the coast of Vietnam. What was the major constitutional effect of this resolution?",
-      "options": [
-        {
-          "id": "A",
-          "text": "It strictly curtailed the President's military authority"
-        },
-        {
-          "id": "B",
-          "text": "It granted the President broad latitude to conduct military operations in Southeast Asia without a formal war declaration"
-        },
-        {
-          "id": "C",
-          "text": "It transferred command of military forces to the Senate Foreign Relations Committee"
-        },
-        {
-          "id": "D",
-          "text": "It outlawed military draft inductions"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "The Gulf of Tonkin Resolution (1964) granted President Johnson broad military discretion in Vietnam."
-    },
-    {
-      "id": "fed-30",
-      "type": "single-choice",
-      "category": "Presidency, War Powers & Budget Process",
-      "scenarioBased": false,
-      "question": "What special legislative procedure allows Congress to 'fast track' budget-related legislation regarding spending, revenues, or the debt limit, bypassing Senate filibusters with a simple majority vote?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Budget Reconciliation"
-        },
-        {
-          "id": "B",
-          "text": "Unanimous Consent Agreement"
-        },
-        {
-          "id": "C",
-          "text": "Suspension of the Rules"
-        },
-        {
-          "id": "D",
-          "text": "Regular Order Appropriations"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": "Budget Reconciliation allows budget bills to pass the Senate by simple majority (51 votes), avoiding filibusters."
-    },
-    {
-      "id": "fed-31",
-      "type": "single-choice",
-      "category": "Presidency, War Powers & Budget Process",
-      "scenarioBased": false,
-      "question": "In the Senate, what rule enforces the requirement that provisions included in a budget reconciliation bill must be strictly budget-related and prohibits extraneous non-budgetary matter?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The Ramseyer Rule"
-        },
-        {
-          "id": "B",
-          "text": "The Byrd Rule (Section 313 of the Budget Act)"
-        },
-        {
-          "id": "C",
-          "text": "The Cordon Rule"
-        },
-        {
-          "id": "D",
-          "text": "The Germaneness Rule"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "The Byrd Rule (2 U.S.C. 313) allows points of order against extraneous non-budgetary matter in reconciliation bills."
-    },
-    {
-      "id": "fed-32",
-      "type": "single-choice",
-      "category": "Federal Courts & Federalism",
-      "scenarioBased": false,
-      "question": "What is the three-tiered structural hierarchy of the U.S. federal judicial branch established under Article III and federal statutes?",
-      "options": [
-        {
-          "id": "A",
-          "text": "State District Courts -> State Supreme Courts -> U.S. Supreme Court"
-        },
-        {
-          "id": "B",
-          "text": "U.S. District Courts (trial) -> U.S. Circuit Courts of Appeals -> U.S. Supreme Court"
-        },
-        {
-          "id": "C",
-          "text": "Federal Claims Court -> Federal Circuit -> Administrative Tax Court"
-        },
-        {
-          "id": "D",
-          "text": "Magistrate Courts -> Military Tribunals -> Supreme Court"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "The federal court hierarchy consists of District Courts (trial) -> Circuit Courts of Appeals -> Supreme Court."
-    },
-    {
-      "id": "fed-33",
-      "type": "single-choice",
-      "category": "Federal Courts & Federalism",
-      "scenarioBased": false,
-      "question": "How does a case typically reach the U.S. Supreme Court from a federal Circuit Court of Appeals or state supreme court?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Through a mandatory summons issued by Congress"
-        },
-        {
-          "id": "B",
-          "text": "By filing a petition for a writ of certiorari, requiring at least 4 Justices to agree to hear the case ('Rule of Four')"
-        },
-        {
-          "id": "C",
-          "text": "By automatic referral of all civil lawsuits exceeding $1 million"
-        },
-        {
-          "id": "D",
-          "text": "Through an executive order issued by the Attorney General"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Cases reach the Supreme Court via petition for writ of certiorari; 4 Justices must agree to hear it ('Rule of Four')."
-    },
-    {
-      "id": "fed-34",
-      "type": "single-choice",
-      "category": "Federal Courts & Federalism",
-      "scenarioBased": true,
-      "question": "Suppose a state passes a law that directly conflicts with a federal environmental regulation enacted under Congress's constitutional powers. What determines which law prevails?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The state law prevails under the 10th Amendment"
-        },
-        {
-          "id": "B",
-          "text": "The federal regulation prevails under the Supremacy Clause of Article VI"
-        },
-        {
-          "id": "C",
-          "text": "The state law prevails if passed by a two-thirds state legislative vote"
-        },
-        {
-          "id": "D",
-          "text": "Both laws are rendered completely void"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Under the Supremacy Clause (Article VI), valid federal laws and regulations supersede conflicting state statutes."
-    },
-    {
-      "id": "fed-35",
-      "type": "single-choice",
-      "category": "Federalism & Constitutional Amendments",
-      "scenarioBased": false,
-      "question": "In 1932, Justice Louis Brandeis famously described U.S. states as 'laboratories of democracy.' What did he mean by this phrase in the context of federalism?",
-      "options": [
-        {
-          "id": "A",
-          "text": "States operate federal scientific research facilities"
-        },
-        {
-          "id": "B",
-          "text": "State governments can experiment with novel social and economic policies without risking the entire nation, and successful policies may spread nationally"
-        },
-        {
-          "id": "C",
-          "text": "Federal courts have absolute authority over state election laws"
-        },
-        {
-          "id": "D",
-          "text": "Constitutional amendments must originate in state universities"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Justice Brandeis described states as laboratories of democracy testing novel policy solutions locally."
+      "explanation": "Article VI, Clause 2 (Supremacy Clause) establishes federal law and the Constitution as supreme over state laws.",
+      "learningOrder": 4,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-36",
@@ -977,7 +148,9 @@
         }
       ],
       "correctAnswer": "C",
-      "explanation": "The 10th Amendment reserves un-delegated powers to the states or to the people."
+      "explanation": "The 10th Amendment reserves un-delegated powers to the states or to the people.",
+      "learningOrder": 5,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-37",
@@ -1004,7 +177,9 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The 13th Amendment (1865) abolished slavery and involuntary servitude except as criminal punishment."
+      "explanation": "The 13th Amendment (1865) abolished slavery and involuntary servitude except as criminal punishment.",
+      "learningOrder": 6,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-38",
@@ -1031,34 +206,9 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "The 14th Amendment (1868) guarantees national citizenship, due process, and equal protection of the laws."
-    },
-    {
-      "id": "fed-39",
-      "type": "single-choice",
-      "category": "Federalism & Constitutional Amendments",
-      "scenarioBased": false,
-      "question": "What legal doctrine refers to the Supreme Court applying protections from the Bill of Rights to state governments through the Due Process Clause of the Fourteenth Amendment?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Federal Preemption"
-        },
-        {
-          "id": "B",
-          "text": "Doctrine of Incorporation"
-        },
-        {
-          "id": "C",
-          "text": "Positive Law Codification"
-        },
-        {
-          "id": "D",
-          "text": "Executive Privilege"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "The Doctrine of Incorporation applies Bill of Rights protections to state governments via the 14th Amendment."
+      "explanation": "The 14th Amendment (1868) guarantees national citizenship, due process, and equal protection of the laws.",
+      "learningOrder": 7,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-40",
@@ -1085,7 +235,9 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The 1st Amendment protects freedoms of speech, press, peaceful assembly, religion, and petitioning government."
+      "explanation": "The 1st Amendment protects freedoms of speech, press, peaceful assembly, religion, and petitioning government.",
+      "learningOrder": 8,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-41",
@@ -1112,7 +264,9 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "The 15th Amendment (1870) prohibited denying voting rights based on race, color, or previous servitude."
+      "explanation": "The 15th Amendment (1870) prohibited denying voting rights based on race, color, or previous servitude.",
+      "learningOrder": 9,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-42",
@@ -1139,7 +293,9 @@
         }
       ],
       "correctAnswer": "C",
-      "explanation": "The 19th Amendment (1920) granted women the constitutional right to vote."
+      "explanation": "The 19th Amendment (1920) granted women the constitutional right to vote.",
+      "learningOrder": 10,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-43",
@@ -1166,7 +322,9 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "The 22nd Amendment (1951) established a strict two-term limit for the U.S. President."
+      "explanation": "The 22nd Amendment (1951) established a strict two-term limit for the U.S. President.",
+      "learningOrder": 11,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-44",
@@ -1193,7 +351,9 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "The 25th Amendment (1967) governs presidential disability, Vice Presidential vacancies, and line of succession."
+      "explanation": "The 25th Amendment (1967) governs presidential disability, Vice Presidential vacancies, and line of succession.",
+      "learningOrder": 12,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-45",
@@ -1220,34 +380,38 @@
         }
       ],
       "correctAnswer": "C",
-      "explanation": "The 26th Amendment (1971) lowered the legal voting age to 18 nationwide."
+      "explanation": "The 26th Amendment (1971) lowered the legal voting age to 18 nationwide.",
+      "learningOrder": 13,
+      "difficulty": "Beginner"
     },
     {
-      "id": "fed-46",
+      "id": "fed-21",
       "type": "single-choice",
-      "category": "Federalism & Constitutional Amendments",
-      "scenarioBased": true,
-      "question": "Suppose a federal law mandates that state local law enforcement agencies must perform background checks at state expense without providing federal funding. What is this financial requirement called under federalism law?",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "Which amendment altered the original constitutional method of choosing U.S. Senators by transferring election power from state legislatures to the voters of each state?",
       "options": [
         {
           "id": "A",
-          "text": "Categorical Grant"
+          "text": "12th Amendment"
         },
         {
           "id": "B",
-          "text": "Unfunded Mandate"
+          "text": "16th Amendment"
         },
         {
           "id": "C",
-          "text": "Block Grant"
+          "text": "17th Amendment"
         },
         {
           "id": "D",
-          "text": "Revenue Sharing"
+          "text": "20th Amendment"
         }
       ],
-      "correctAnswer": "B",
-      "explanation": "An Unfunded Mandate is a federal law compelling state/local action without providing federal funding."
+      "correctAnswer": "C",
+      "explanation": "The 17th Amendment established direct popular election of U.S. Senators.",
+      "learningOrder": 14,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-47",
@@ -1274,7 +438,38 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Executive Orders are presidential directives to executive agencies carrying the force of federal law."
+      "explanation": "Executive Orders are presidential directives to executive agencies carrying the force of federal law.",
+      "learningOrder": 15,
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "fed-32",
+      "type": "single-choice",
+      "category": "Federal Courts & Federalism",
+      "scenarioBased": false,
+      "question": "What is the three-tiered structural hierarchy of the U.S. federal judicial branch established under Article III and federal statutes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "State District Courts -> State Supreme Courts -> U.S. Supreme Court"
+        },
+        {
+          "id": "B",
+          "text": "U.S. District Courts (trial) -> U.S. Circuit Courts of Appeals -> U.S. Supreme Court"
+        },
+        {
+          "id": "C",
+          "text": "Federal Claims Court -> Federal Circuit -> Administrative Tax Court"
+        },
+        {
+          "id": "D",
+          "text": "Magistrate Courts -> Military Tribunals -> Supreme Court"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The federal court hierarchy consists of District Courts (trial) -> Circuit Courts of Appeals -> Supreme Court.",
+      "learningOrder": 16,
+      "difficulty": "Beginner"
     },
     {
       "id": "fed-48",
@@ -1301,7 +496,531 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Trial courts determine facts and evidence; appellate courts review legal interpretation and procedural errors."
+      "explanation": "Trial courts determine facts and evidence; appellate courts review legal interpretation and procedural errors.",
+      "learningOrder": 17,
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "fed-15",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "What key constitutional role does the House of Representatives play in the impeachment and removal process of a federal official?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tries the official and renders the final verdict"
+        },
+        {
+          "id": "B",
+          "text": "Brings the formal charges of impeachment (similar to a grand jury)"
+        },
+        {
+          "id": "C",
+          "text": "Appoints a special prosecutor to manage the trial"
+        },
+        {
+          "id": "D",
+          "text": "Issues a judicial writ of certiorari"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Article I grants the House sole power of impeachment (acting like a grand jury to bring charges).",
+      "learningOrder": 18,
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "fed-18",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "Under the Constitution, which institution has the sole power to confirm presidential nominations for cabinet secretaries, federal judges, and ambassadors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The House of Representatives"
+        },
+        {
+          "id": "B",
+          "text": "The United States Senate"
+        },
+        {
+          "id": "C",
+          "text": "The Supreme Court"
+        },
+        {
+          "id": "D",
+          "text": "The National Governors Association"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Article II grants the Senate the advice and consent power to confirm presidential nominees.",
+      "learningOrder": 19,
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "fed-07",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "Under Article III of the Constitution, what is the primary constitutional protection designed to ensure the independence of federal judges from political pressure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Term limits of 12 years followed by mandatory retirement"
+        },
+        {
+          "id": "B",
+          "text": "Life tenure during good behavior and a guarantee against salary reduction"
+        },
+        {
+          "id": "C",
+          "text": "Direct election by popular vote every six years"
+        },
+        {
+          "id": "D",
+          "text": "Annual confirmation reviews by the House Judiciary Committee"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Article III grants federal judges life tenure during good behavior and salary protection to ensure judicial independence.",
+      "learningOrder": 20,
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "fed-08",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "Which landmark Supreme Court decision formally established the power of judicial review, declaring that 'a law repugnant to the Constitution is void'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "McCulloch v. Maryland (1819)"
+        },
+        {
+          "id": "B",
+          "text": "Marbury v. Madison (1803)"
+        },
+        {
+          "id": "C",
+          "text": "Gibbons v. Ogden (1824)"
+        },
+        {
+          "id": "D",
+          "text": "Youngstown Sheet & Tube Co. v. Sawyer (1952)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chief Justice John Marshall established judicial review in Marbury v. Madison (1803).",
+      "learningOrder": 21,
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "fed-05",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "What happens if the President takes no action on a bill passed by Congress within 10 days (Sundays excepted) while Congress is actively in session?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The bill automatically dies via a pocket veto"
+        },
+        {
+          "id": "B",
+          "text": "The bill becomes law as if the President had signed it"
+        },
+        {
+          "id": "C",
+          "text": "The bill returns to committee for a second markup"
+        },
+        {
+          "id": "D",
+          "text": "The Supreme Court must review the bill for constitutionality"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "If Congress is in session and the President takes no action for 10 days (Sundays excepted), the bill becomes law.",
+      "learningOrder": 22,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-04",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": true,
+      "question": "A bill has passed both the House of Representatives and the Senate in identical form and is presented to the President. If the President rejects the bill and returns it with objections, how can Congress override the presidential veto?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By a simple majority vote in both chambers"
+        },
+        {
+          "id": "B",
+          "text": "By a two-thirds supermajority vote of those present and voting in both the House and the Senate"
+        },
+        {
+          "id": "C",
+          "text": "By a three-fourths vote of state governors"
+        },
+        {
+          "id": "D",
+          "text": "By unanimous consent of the Senate Rules Committee"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Article I, Section 7 dictates that a two-thirds vote in both House and Senate is required to override a veto.",
+      "learningOrder": 23,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-06",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": true,
+      "question": "Suppose Congress passes a bill and adjourns its session within the 10-day period during which the President is considering the legislation. If the President chooses not to sign the bill, what is the legal outcome?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The bill becomes law automatically"
+        },
+        {
+          "id": "B",
+          "text": "The bill is enacted provisionally for 60 days"
+        },
+        {
+          "id": "C",
+          "text": "The bill does not become law; it is nullified by a 'pocket veto' which Congress cannot override"
+        },
+        {
+          "id": "D",
+          "text": "The Speaker of the House becomes acting signatory"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "If Congress adjourns during the 10 days and the President does not sign, it is a pocket veto and cannot be overridden.",
+      "learningOrder": 24,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-09",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "In the legislative committee process, what is the term for the formal session where committee members analyze a bill line by line, propose amendments, and vote on text changes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Public Hearing"
+        },
+        {
+          "id": "B",
+          "text": "Markup Session"
+        },
+        {
+          "id": "C",
+          "text": "Second Reading"
+        },
+        {
+          "id": "D",
+          "text": "Cloture Motion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Markup sessions are where committees debate, amend, and rewrite bill text line by line.",
+      "learningOrder": 25,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-10",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "When the House and Senate pass different versions of the same major piece of legislation and informal negotiations fail, what body is appointed to resolve the differences and draft a unified bill?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Standing Rules Committee"
+        },
+        {
+          "id": "B",
+          "text": "A Conference Committee composed of conferees from both chambers"
+        },
+        {
+          "id": "C",
+          "text": "The President's Cabinet"
+        },
+        {
+          "id": "D",
+          "text": "The Congressional Budget Office"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "A Conference Committee composed of House and Senate conferees reconciles differing versions of a bill.",
+      "learningOrder": 26,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-12",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "In the Senate, what procedural tool allows a minority of senators to delay or prevent a vote on a bill through extended debate, and how many votes are required for a 'cloture' motion to end it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Filibuster; requiring 60 votes (three-fifths supermajority)"
+        },
+        {
+          "id": "B",
+          "text": "Pocket Veto; requiring 51 votes (simple majority)"
+        },
+        {
+          "id": "C",
+          "text": "Point of Order; requiring 67 votes (two-thirds supermajority)"
+        },
+        {
+          "id": "D",
+          "text": "Unanimous Consent; requiring 75 votes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Filibusters in the Senate are ended by invoking cloture under Rule XXII, which requires 60 votes (3/5 supermajority).",
+      "learningOrder": 27,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-16",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "What vote threshold is required in the Senate to convict an impeached official and remove them from office?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple majority (51 votes)"
+        },
+        {
+          "id": "B",
+          "text": "Three-fifths majority (60 votes)"
+        },
+        {
+          "id": "C",
+          "text": "Two-thirds vote of Senators present"
+        },
+        {
+          "id": "D",
+          "text": "Unanimous consent"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Article I grants the Senate sole power to try impeachments; conviction requires a 2/3 vote of Senators present.",
+      "learningOrder": 28,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-17",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "What is the primary function of the House Rules Committee in the legislative pipeline?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Investigating executive branch corruption"
+        },
+        {
+          "id": "B",
+          "text": "Setting the terms of debate, time limits, and amendment rules for bills on the House floor"
+        },
+        {
+          "id": "C",
+          "text": "Auditing federal agency budget spending"
+        },
+        {
+          "id": "D",
+          "text": "Ratifying international treaties"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The House Rules Committee acts as a 'traffic cop', setting floor debate time limits and amendment permissions.",
+      "learningOrder": 29,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-22",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": true,
+      "question": "A bill is introduced in the House to grant federal funds for local infrastructure. Where does the bill usually go immediately after introduction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Directly to the House floor for a vote"
+        },
+        {
+          "id": "B",
+          "text": "Referred by the Speaker to the appropriate standing committee with jurisdiction"
+        },
+        {
+          "id": "C",
+          "text": "Sent to the Senate Majority Leader for pre-approval"
+        },
+        {
+          "id": "D",
+          "text": "Forwarded to the White House for executive review"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bills introduced in the House are referred by the Speaker to standing committees with relevant jurisdiction.",
+      "learningOrder": 30,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-23",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": true,
+      "question": "What requirement must be met before a conference committee report can be sent to the President for signature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It must be approved by the Supreme Court"
+        },
+        {
+          "id": "B",
+          "text": "Both the House and Senate must vote to approve the identical conference report without amendments"
+        },
+        {
+          "id": "C",
+          "text": "At least 30 state legislatures must ratify it"
+        },
+        {
+          "id": "D",
+          "text": "The Cabinet must issue a unanimous advisory report"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Both House and Senate must vote to approve the exact same conference report without further floor amendments.",
+      "learningOrder": 31,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-24",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "What is the term for an authorization or directive included in a congressional bill or committee report that directs funds to a specific specific project, person, or entity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rider"
+        },
+        {
+          "id": "B",
+          "text": "Earmark"
+        },
+        {
+          "id": "C",
+          "text": "Proviso"
+        },
+        {
+          "id": "D",
+          "text": "Substitute Amendment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "An earmark directs federal funds to a specific project, organization, or location.",
+      "learningOrder": 32,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-34",
+      "type": "single-choice",
+      "category": "Federal Courts & Federalism",
+      "scenarioBased": true,
+      "question": "Suppose a state passes a law that directly conflicts with a federal environmental regulation enacted under Congress's constitutional powers. What determines which law prevails?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The state law prevails under the 10th Amendment"
+        },
+        {
+          "id": "B",
+          "text": "The federal regulation prevails under the Supremacy Clause of Article VI"
+        },
+        {
+          "id": "C",
+          "text": "The state law prevails if passed by a two-thirds state legislative vote"
+        },
+        {
+          "id": "D",
+          "text": "Both laws are rendered completely void"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Under the Supremacy Clause (Article VI), valid federal laws and regulations supersede conflicting state statutes.",
+      "learningOrder": 33,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-35",
+      "type": "single-choice",
+      "category": "Federalism & Constitutional Amendments",
+      "scenarioBased": false,
+      "question": "In 1932, Justice Louis Brandeis famously described U.S. states as 'laboratories of democracy.' What did he mean by this phrase in the context of federalism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "States operate federal scientific research facilities"
+        },
+        {
+          "id": "B",
+          "text": "State governments can experiment with novel social and economic policies without risking the entire nation, and successful policies may spread nationally"
+        },
+        {
+          "id": "C",
+          "text": "Federal courts have absolute authority over state election laws"
+        },
+        {
+          "id": "D",
+          "text": "Constitutional amendments must originate in state universities"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Justice Brandeis described states as laboratories of democracy testing novel policy solutions locally.",
+      "learningOrder": 34,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-46",
+      "type": "single-choice",
+      "category": "Federalism & Constitutional Amendments",
+      "scenarioBased": true,
+      "question": "Suppose a federal law mandates that state local law enforcement agencies must perform background checks at state expense without providing federal funding. What is this financial requirement called under federalism law?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Categorical Grant"
+        },
+        {
+          "id": "B",
+          "text": "Unfunded Mandate"
+        },
+        {
+          "id": "C",
+          "text": "Block Grant"
+        },
+        {
+          "id": "D",
+          "text": "Revenue Sharing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "An Unfunded Mandate is a federal law compelling state/local action without providing federal funding.",
+      "learningOrder": 35,
+      "difficulty": "Intermediate"
     },
     {
       "id": "fed-49",
@@ -1328,7 +1047,386 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Amicus Curiae ('Friend of the Court') briefs are submitted by non-litigants to offer legal insights."
+      "explanation": "Amicus Curiae ('Friend of the Court') briefs are submitted by non-litigants to offer legal insights.",
+      "learningOrder": 36,
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "fed-13",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": true,
+      "question": "A federal agency proposes a new administrative rule that a group of citizens claims exceeds the statutory authority granted by Congress. Which branch has the constitutional role to evaluate whether the rule violates federal law or the Constitution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Legislative Branch"
+        },
+        {
+          "id": "B",
+          "text": "The Executive Branch"
+        },
+        {
+          "id": "C",
+          "text": "The Judicial Branch"
+        },
+        {
+          "id": "D",
+          "text": "State Governors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Judicial Branch evaluates whether executive branch actions or agency rules conform to federal statutes and the Constitution.",
+      "learningOrder": 37,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-02",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "In Federalist 51, James Madison argued that the primary security against the gradual concentration of several powers in the same department consists of what mechanism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Relying strictly on civic virtue among elected representatives"
+        },
+        {
+          "id": "B",
+          "text": "Giving those who administer each department the constitutional means and personal motives to resist encroachments ('ambition counteracting ambition')"
+        },
+        {
+          "id": "C",
+          "text": "Establishing a unicameral legislature with annual popular elections"
+        },
+        {
+          "id": "D",
+          "text": "Granting the Chief Justice absolute veto power over all statutory laws"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Federalist 51 specifies that ambition must counter ambition through constitutional means and personal motives.",
+      "learningOrder": 38,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-11",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "Which House parliamentary mechanism allows relatively non-controversial measures to be brought directly to the floor for a quick vote requiring a two-thirds majority, limiting debate to 40 minutes and prohibiting floor amendments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Discharge Petition"
+        },
+        {
+          "id": "B",
+          "text": "Suspension of the Rules"
+        },
+        {
+          "id": "C",
+          "text": "Calendar Wednesday"
+        },
+        {
+          "id": "D",
+          "text": "Committee of the Whole"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Suspension of the Rules expedites non-controversial bills under a 40-minute debate limit and 2/3 vote requirement.",
+      "learningOrder": 39,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-19",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": true,
+      "question": "Suppose a newly passed federal statute conflicts with an earlier federal law on the same subject, but contains no explicit clause repealing the prior law. How do federal courts approach the two statutes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Courts automatically void both laws"
+        },
+        {
+          "id": "B",
+          "text": "Courts presume repeals by implication are disfavored and strive to harmonize the statutes if possible"
+        },
+        {
+          "id": "C",
+          "text": "Courts enforce only the older law under stare decisis"
+        },
+        {
+          "id": "D",
+          "text": "Courts refer the matter back to the President"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Courts disfavor implied repeals and strive to harmonize statutory provisions unless irreconcilable conflict exists.",
+      "learningOrder": 40,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-25",
+      "type": "single-choice",
+      "category": "Constitution, Congress & Separation of Powers",
+      "scenarioBased": false,
+      "question": "In Montesquieu's The Spirit of Laws (1748), why is the separation of the judicial power from the legislative and executive powers declared essential to political liberty?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because unified power allows judges to make tyrannical laws and execute them with arbitrary violence"
+        },
+        {
+          "id": "B",
+          "text": "Because judges need absolute control over the military budget"
+        },
+        {
+          "id": "C",
+          "text": "Because the executive branch cannot collect taxes without judicial approval"
+        },
+        {
+          "id": "D",
+          "text": "Because state governments would cease to exist otherwise PART 2: GOVERNMENT QUIZ 2 (Questions 26 – 50) Focus: Executive War Powers, Budget Reconciliation, Federal Courts, Federalism & Amendments"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Montesquieu wrote that if judicial power is joined to legislative or executive power, freedom vanishes due to arbitrary rule.",
+      "learningOrder": 41,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-26",
+      "type": "single-choice",
+      "category": "Presidency, War Powers & Budget Process",
+      "scenarioBased": true,
+      "question": "Congress passes a joint resolution authorizing the President to use military force against nations or groups involved in a terror attack. What is this type of legislative measure called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Declaration of Martial Law"
+        },
+        {
+          "id": "B",
+          "text": "Authorization for Use of Military Force (AUMF)"
+        },
+        {
+          "id": "C",
+          "text": "Executive Order"
+        },
+        {
+          "id": "D",
+          "text": "Treaty of Mutual Defense"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "An Authorization for Use of Military Force (AUMF) is a statutory authorization for executive military action.",
+      "learningOrder": 42,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-27",
+      "type": "single-choice",
+      "category": "Presidency, War Powers & Budget Process",
+      "scenarioBased": false,
+      "question": "Under the War Powers Act of 1973, within how many hours must the President notify Congress after deploying U.S. armed forces into hostile situations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 hours"
+        },
+        {
+          "id": "B",
+          "text": "48 hours"
+        },
+        {
+          "id": "C",
+          "text": "72 hours"
+        },
+        {
+          "id": "D",
+          "text": "7 days"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The War Powers Act of 1973 mandates executive notification to Congress within 48 hours of deploying troops.",
+      "learningOrder": 43,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-28",
+      "type": "single-choice",
+      "category": "Presidency, War Powers & Budget Process",
+      "scenarioBased": false,
+      "question": "What time limit does the War Powers Act of 1973 place on military deployments without explicit congressional authorization or a declaration of war?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30 days total"
+        },
+        {
+          "id": "B",
+          "text": "60 days (plus a 30-day withdrawal period)"
+        },
+        {
+          "id": "C",
+          "text": "180 days"
+        },
+        {
+          "id": "D",
+          "text": "1 calendar year"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The War Powers Act limits unapproved military actions to 60 days, plus a 30-day withdrawal window.",
+      "learningOrder": 44,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-29",
+      "type": "single-choice",
+      "category": "Presidency, War Powers & Budget Process",
+      "scenarioBased": false,
+      "question": "In 1964, Congress passed the Gulf of Tonkin Resolution following reported naval incidents off the coast of Vietnam. What was the major constitutional effect of this resolution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It strictly curtailed the President's military authority"
+        },
+        {
+          "id": "B",
+          "text": "It granted the President broad latitude to conduct military operations in Southeast Asia without a formal war declaration"
+        },
+        {
+          "id": "C",
+          "text": "It transferred command of military forces to the Senate Foreign Relations Committee"
+        },
+        {
+          "id": "D",
+          "text": "It outlawed military draft inductions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Gulf of Tonkin Resolution (1964) granted President Johnson broad military discretion in Vietnam.",
+      "learningOrder": 45,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-30",
+      "type": "single-choice",
+      "category": "Presidency, War Powers & Budget Process",
+      "scenarioBased": false,
+      "question": "What special legislative procedure allows Congress to 'fast track' budget-related legislation regarding spending, revenues, or the debt limit, bypassing Senate filibusters with a simple majority vote?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budget Reconciliation"
+        },
+        {
+          "id": "B",
+          "text": "Unanimous Consent Agreement"
+        },
+        {
+          "id": "C",
+          "text": "Suspension of the Rules"
+        },
+        {
+          "id": "D",
+          "text": "Regular Order Appropriations"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Budget Reconciliation allows budget bills to pass the Senate by simple majority (51 votes), avoiding filibusters.",
+      "learningOrder": 46,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-31",
+      "type": "single-choice",
+      "category": "Presidency, War Powers & Budget Process",
+      "scenarioBased": false,
+      "question": "In the Senate, what rule enforces the requirement that provisions included in a budget reconciliation bill must be strictly budget-related and prohibits extraneous non-budgetary matter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Ramseyer Rule"
+        },
+        {
+          "id": "B",
+          "text": "The Byrd Rule (Section 313 of the Budget Act)"
+        },
+        {
+          "id": "C",
+          "text": "The Cordon Rule"
+        },
+        {
+          "id": "D",
+          "text": "The Germaneness Rule"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Byrd Rule (2 U.S.C. 313) allows points of order against extraneous non-budgetary matter in reconciliation bills.",
+      "learningOrder": 47,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-33",
+      "type": "single-choice",
+      "category": "Federal Courts & Federalism",
+      "scenarioBased": false,
+      "question": "How does a case typically reach the U.S. Supreme Court from a federal Circuit Court of Appeals or state supreme court?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Through a mandatory summons issued by Congress"
+        },
+        {
+          "id": "B",
+          "text": "By filing a petition for a writ of certiorari, requiring at least 4 Justices to agree to hear the case ('Rule of Four')"
+        },
+        {
+          "id": "C",
+          "text": "By automatic referral of all civil lawsuits exceeding $1 million"
+        },
+        {
+          "id": "D",
+          "text": "Through an executive order issued by the Attorney General"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cases reach the Supreme Court via petition for writ of certiorari; 4 Justices must agree to hear it ('Rule of Four').",
+      "learningOrder": 48,
+      "difficulty": "Advanced"
+    },
+    {
+      "id": "fed-39",
+      "type": "single-choice",
+      "category": "Federalism & Constitutional Amendments",
+      "scenarioBased": false,
+      "question": "What legal doctrine refers to the Supreme Court applying protections from the Bill of Rights to state governments through the Due Process Clause of the Fourteenth Amendment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Federal Preemption"
+        },
+        {
+          "id": "B",
+          "text": "Doctrine of Incorporation"
+        },
+        {
+          "id": "C",
+          "text": "Positive Law Codification"
+        },
+        {
+          "id": "D",
+          "text": "Executive Privilege"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Doctrine of Incorporation applies Bill of Rights protections to state governments via the 14th Amendment.",
+      "learningOrder": 49,
+      "difficulty": "Advanced"
     },
     {
       "id": "fed-50",
@@ -1355,7 +1453,10 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Clinton v. City of New York (1998) struck down the Line Item Veto as a violation of Presentment (Article I, Section 7)."
+      "explanation": "Clinton v. City of New York (1998) struck down the Line Item Veto as a violation of Presentment (Article I, Section 7).",
+      "learningOrder": 50,
+      "difficulty": "Advanced"
     }
-  ]
+  ],
+  "progressiveOrder": true
 }
